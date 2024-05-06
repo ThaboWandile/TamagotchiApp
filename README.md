@@ -22,7 +22,6 @@ In conclusion, a Tamagotchi app serves to recapture nostalgia, educate users, an
 
 
 This report provides a comprehensive overview of the purpose, design, and GitHub integration of a Tamagotchi app, offering insights into its development process and potential for future enhancements.
-**References**
 
 1. Schrab, J. (1997). *The Tamagotchi Effect*. Stanford University Press.
 2. Rogers, A. (2006). *Designing for Interaction: Creating Smart Applications and Clever Devices*. New Riders.
