@@ -2,7 +2,7 @@
 
 ---
 
- The Purpose, Design, and GitHub Integration of a Tamagotchi App**
+ The Purpose, Design, and GitHub Integration of a Tamagotchi App
 
 The Tamagotchi, a digital pet simulation game, emerged in the 1990s and quickly captured the hearts of millions worldwide. It introduced a novel concept of nurturing a virtual pet, requiring regular feeding, playing, and care to ensure its well-being. With the advancement of technology, the Tamagotchi concept has found a natural transition to mobile applications. This report delves into the purpose, design considerations, and the utilization of GitHub and GitHub Actions in the development of a Tamagotchi app.
 
